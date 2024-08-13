@@ -1,0 +1,580 @@
+State Name,State ID,Constituency,Constituency Link
+ANDAMAN AND NICOBAR ISLANDS,1,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=1
+ANDAMAN AND NICOBAR ISLANDS,1,ANDAMAN AND NICOBAR ISLANDS,index.php?action=show_candidates&constituency_id=579
+ANDHRA PRADESH,2,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=2
+ANDHRA PRADESH,2,AMALAPURAM (SC),index.php?action=show_candidates&constituency_id=7
+ANDHRA PRADESH,2,ANAKAPALLE,index.php?action=show_candidates&constituency_id=5
+ANDHRA PRADESH,2,ANANTHAPUR,index.php?action=show_candidates&constituency_id=20
+ANDHRA PRADESH,2,ARAKU (ST),index.php?action=show_candidates&constituency_id=1
+ANDHRA PRADESH,2,BAPATLA (SC),index.php?action=show_candidates&constituency_id=16
+ANDHRA PRADESH,2,CHITTOOR (SC),index.php?action=show_candidates&constituency_id=26
+ANDHRA PRADESH,2,ELURU,index.php?action=show_candidates&constituency_id=10
+ANDHRA PRADESH,2,GUNTUR,index.php?action=show_candidates&constituency_id=13
+ANDHRA PRADESH,2,HINDUPUR,index.php?action=show_candidates&constituency_id=21
+ANDHRA PRADESH,2,KADAPA,index.php?action=show_candidates&constituency_id=22
+ANDHRA PRADESH,2,KAKINADA,index.php?action=show_candidates&constituency_id=6
+ANDHRA PRADESH,2,KURNOOL,index.php?action=show_candidates&constituency_id=19
+ANDHRA PRADESH,2,MACHILIPATNAM,index.php?action=show_candidates&constituency_id=11
+ANDHRA PRADESH,2,NANDYAL,index.php?action=show_candidates&constituency_id=18
+ANDHRA PRADESH,2,NARSAPURAM,index.php?action=show_candidates&constituency_id=9
+ANDHRA PRADESH,2,NARSARAOPET,index.php?action=show_candidates&constituency_id=14
+ANDHRA PRADESH,2,NELLORE,index.php?action=show_candidates&constituency_id=23
+ANDHRA PRADESH,2,ONGOLE,index.php?action=show_candidates&constituency_id=17
+ANDHRA PRADESH,2,RAJAHMUNDRY,index.php?action=show_candidates&constituency_id=8
+ANDHRA PRADESH,2,RAJAMPET,index.php?action=show_candidates&constituency_id=25
+ANDHRA PRADESH,2,SRIKAKULAM,index.php?action=show_candidates&constituency_id=2
+ANDHRA PRADESH,2,THIRUPATHI (SC),index.php?action=show_candidates&constituency_id=24
+ANDHRA PRADESH,2,VIJAYAWADA,index.php?action=show_candidates&constituency_id=12
+ANDHRA PRADESH,2,VISAKHAPATNAM,index.php?action=show_candidates&constituency_id=4
+ANDHRA PRADESH,2,VIZIANAGARAM,index.php?action=show_candidates&constituency_id=3
+ARUNACHAL PRADESH,3,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=3
+ARUNACHAL PRADESH,3,ARUNACHAL EAST,index.php?action=show_candidates&constituency_id=29
+ARUNACHAL PRADESH,3,ARUNACHAL WEST,index.php?action=show_candidates&constituency_id=28
+ASSAM,4,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=4
+ASSAM,4,BARPETA,index.php?action=show_candidates&constituency_id=42
+ASSAM,4,DARRANG-UDALGURI,index.php?action=show_candidates&constituency_id=35
+ASSAM,4,DHUBRI,index.php?action=show_candidates&constituency_id=41
+ASSAM,4,DIBRUGARH,index.php?action=show_candidates&constituency_id=33
+ASSAM,4,DIPHU (ST),index.php?action=show_candidates&constituency_id=36
+ASSAM,4,GUWAHATI,index.php?action=show_candidates&constituency_id=43
+ASSAM,4,JORHAT,index.php?action=show_candidates&constituency_id=34
+ASSAM,4,KARIMGANJ,index.php?action=show_candidates&constituency_id=37
+ASSAM,4,KAZIRANGA,index.php?action=show_candidates&constituency_id=30
+ASSAM,4,KOKRAJHAR (ST),index.php?action=show_candidates&constituency_id=40
+ASSAM,4,LAKHIMPUR,index.php?action=show_candidates&constituency_id=32
+ASSAM,4,NAGAON,index.php?action=show_candidates&constituency_id=39
+ASSAM,4,SILCHAR (SC),index.php?action=show_candidates&constituency_id=38
+ASSAM,4,SONITPUR,index.php?action=show_candidates&constituency_id=31
+BIHAR,5,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=5
+BIHAR,5,ARARIA,index.php?action=show_candidates&constituency_id=56
+BIHAR,5,ARRAH,index.php?action=show_candidates&constituency_id=82
+BIHAR,5,AURANGABAD,index.php?action=show_candidates&constituency_id=45
+BIHAR,5,BANKA,index.php?action=show_candidates&constituency_id=53
+BIHAR,5,BEGUSARAI,index.php?action=show_candidates&constituency_id=63
+BIHAR,5,BHAGALPUR,index.php?action=show_candidates&constituency_id=52
+BIHAR,5,BUXAR,index.php?action=show_candidates&constituency_id=83
+BIHAR,5,DARBHANGA,index.php?action=show_candidates&constituency_id=60
+BIHAR,5,GAYA (SC),index.php?action=show_candidates&constituency_id=46
+BIHAR,5,GOPALGANJ (SC),index.php?action=show_candidates&constituency_id=76
+BIHAR,5,HAJIPUR (SC),index.php?action=show_candidates&constituency_id=69
+BIHAR,5,JAHANABAD,index.php?action=show_candidates&constituency_id=86
+BIHAR,5,JAMUI (SC),index.php?action=show_candidates&constituency_id=48
+BIHAR,5,JHANJHARPUR,index.php?action=show_candidates&constituency_id=54
+BIHAR,5,KARAKAT,index.php?action=show_candidates&constituency_id=85
+BIHAR,5,KATIHAR,index.php?action=show_candidates&constituency_id=50
+BIHAR,5,KHAGARIA,index.php?action=show_candidates&constituency_id=58
+BIHAR,5,KISHANGANJ,index.php?action=show_candidates&constituency_id=49
+BIHAR,5,MADHEPURA,index.php?action=show_candidates&constituency_id=57
+BIHAR,5,MADHUBANI,index.php?action=show_candidates&constituency_id=66
+BIHAR,5,MAHARAJGANJ,index.php?action=show_candidates&constituency_id=78
+BIHAR,5,MUNGER,index.php?action=show_candidates&constituency_id=64
+BIHAR,5,MUZAFFARPUR,index.php?action=show_candidates&constituency_id=67
+BIHAR,5,NALANDA,index.php?action=show_candidates&constituency_id=79
+BIHAR,5,NAWADA,index.php?action=show_candidates&constituency_id=47
+BIHAR,5,PASCHIM CHAMPARAN,index.php?action=show_candidates&constituency_id=71
+BIHAR,5,PATALIPUTRA,index.php?action=show_candidates&constituency_id=81
+BIHAR,5,PATNA SAHIB,index.php?action=show_candidates&constituency_id=80
+BIHAR,5,PURNIA,index.php?action=show_candidates&constituency_id=51
+BIHAR,5,PURVI CHAMPARAN,index.php?action=show_candidates&constituency_id=72
+BIHAR,5,SAMASTIPUR (SC),index.php?action=show_candidates&constituency_id=62
+BIHAR,5,SARAN,index.php?action=show_candidates&constituency_id=68
+BIHAR,5,SASARAM (SC),index.php?action=show_candidates&constituency_id=84
+BIHAR,5,SHEOHAR,index.php?action=show_candidates&constituency_id=73
+BIHAR,5,SITAMARHI,index.php?action=show_candidates&constituency_id=65
+BIHAR,5,SIWAN,index.php?action=show_candidates&constituency_id=77
+BIHAR,5,SUPAUL,index.php?action=show_candidates&constituency_id=55
+BIHAR,5,UJIARPUR,index.php?action=show_candidates&constituency_id=61
+BIHAR,5,VAISHALI,index.php?action=show_candidates&constituency_id=75
+BIHAR,5,VALMIKI NAGAR,index.php?action=show_candidates&constituency_id=70
+CHANDIGARH,6,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=6
+CHANDIGARH,6,CHANDIGARH,index.php?action=show_candidates&constituency_id=88
+CHHATTISGARH,7,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=7
+CHHATTISGARH,7,BASTAR (ST),index.php?action=show_candidates&constituency_id=89
+CHHATTISGARH,7,BILASPUR,index.php?action=show_candidates&constituency_id=97
+CHHATTISGARH,7,DURG,index.php?action=show_candidates&constituency_id=98
+CHHATTISGARH,7,JANJGIR-CHAMPA (SC),index.php?action=show_candidates&constituency_id=95
+CHHATTISGARH,7,KANKER (ST),index.php?action=show_candidates&constituency_id=92
+CHHATTISGARH,7,KORBA,index.php?action=show_candidates&constituency_id=96
+CHHATTISGARH,7,MAHASAMUND,index.php?action=show_candidates&constituency_id=91
+CHHATTISGARH,7,RAIGARH (ST),index.php?action=show_candidates&constituency_id=94
+CHHATTISGARH,7,RAIPUR,index.php?action=show_candidates&constituency_id=99
+CHHATTISGARH,7,RAJNANDGAON,index.php?action=show_candidates&constituency_id=90
+CHHATTISGARH,7,SURGUJA (ST),index.php?action=show_candidates&constituency_id=93
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=8
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8,DADAR & NAGAR HAVELI (ST),index.php?action=show_candidates&constituency_id=102
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,8,DAMAN & DIU,index.php?action=show_candidates&constituency_id=101
+DELHI (NCT),9,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=9
+DELHI (NCT),9,CHANDNI CHOWK,index.php?action=show_candidates&constituency_id=103
+DELHI (NCT),9,EAST DELHI,index.php?action=show_candidates&constituency_id=105
+DELHI (NCT),9,NEW DELHI,index.php?action=show_candidates&constituency_id=106
+DELHI (NCT),9,NORTH EAST DELHI,index.php?action=show_candidates&constituency_id=104
+DELHI (NCT),9,NORTH WEST DELHI (SC),index.php?action=show_candidates&constituency_id=107
+DELHI (NCT),9,SOUTH DELHI,index.php?action=show_candidates&constituency_id=109
+DELHI (NCT),9,WEST DELHI,index.php?action=show_candidates&constituency_id=108
+GOA,10,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=10
+GOA,10,NORTH GOA,index.php?action=show_candidates&constituency_id=110
+GOA,10,SOUTH GOA,index.php?action=show_candidates&constituency_id=111
+GUJARAT,11,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=11
+GUJARAT,11,AHMEDABAD EAST,index.php?action=show_candidates&constituency_id=118
+GUJARAT,11,AHMEDABAD WEST (SC),index.php?action=show_candidates&constituency_id=119
+GUJARAT,11,AMRELI,index.php?action=show_candidates&constituency_id=125
+GUJARAT,11,ANAND,index.php?action=show_candidates&constituency_id=128
+GUJARAT,11,BANASKANTHA,index.php?action=show_candidates&constituency_id=113
+GUJARAT,11,BARDOLI (ST),index.php?action=show_candidates&constituency_id=135
+GUJARAT,11,BHARUCH,index.php?action=show_candidates&constituency_id=134
+GUJARAT,11,BHAVNAGAR,index.php?action=show_candidates&constituency_id=127
+GUJARAT,11,CHHOTA UDAIPUR (ST),index.php?action=show_candidates&constituency_id=133
+GUJARAT,11,DAHOD (ST),index.php?action=show_candidates&constituency_id=131
+GUJARAT,11,GANDHINAGAR,index.php?action=show_candidates&constituency_id=117
+GUJARAT,11,JAMNAGAR,index.php?action=show_candidates&constituency_id=123
+GUJARAT,11,JUNAGADH,index.php?action=show_candidates&constituency_id=124
+GUJARAT,11,KACHCHH (SC),index.php?action=show_candidates&constituency_id=112
+GUJARAT,11,KHEDA,index.php?action=show_candidates&constituency_id=129
+GUJARAT,11,MAHESANA,index.php?action=show_candidates&constituency_id=115
+GUJARAT,11,NAVSARI,index.php?action=show_candidates&constituency_id=137
+GUJARAT,11,PANCHMAHAL,index.php?action=show_candidates&constituency_id=130
+GUJARAT,11,PATAN,index.php?action=show_candidates&constituency_id=114
+GUJARAT,11,PORBANDAR,index.php?action=show_candidates&constituency_id=122
+GUJARAT,11,RAJKOT,index.php?action=show_candidates&constituency_id=121
+GUJARAT,11,SABARKANTHA,index.php?action=show_candidates&constituency_id=116
+GUJARAT,11,SURAT,index.php?action=show_candidates&constituency_id=136
+GUJARAT,11,SURENDRANAGAR,index.php?action=show_candidates&constituency_id=120
+GUJARAT,11,VADODARA,index.php?action=show_candidates&constituency_id=132
+GUJARAT,11,VALSAD (ST),index.php?action=show_candidates&constituency_id=138
+HARYANA,12,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=12
+HARYANA,12,AMBALA (SC),index.php?action=show_candidates&constituency_id=140
+HARYANA,12,BHIWANI-MAHENDRAGARH,index.php?action=show_candidates&constituency_id=147
+HARYANA,12,FARIDABAD,index.php?action=show_candidates&constituency_id=149
+HARYANA,12,GURGAON,index.php?action=show_candidates&constituency_id=148
+HARYANA,12,HISAR,index.php?action=show_candidates&constituency_id=143
+HARYANA,12,KARNAL,index.php?action=show_candidates&constituency_id=144
+HARYANA,12,KURUKSHETRA,index.php?action=show_candidates&constituency_id=141
+HARYANA,12,ROHTAK,index.php?action=show_candidates&constituency_id=146
+HARYANA,12,SIRSA (SC),index.php?action=show_candidates&constituency_id=142
+HARYANA,12,SONIPAT,index.php?action=show_candidates&constituency_id=145
+HIMACHAL PRADESH,13,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=13
+HIMACHAL PRADESH,13,HAMIRPUR,index.php?action=show_candidates&constituency_id=153
+HIMACHAL PRADESH,13,KANGRA,index.php?action=show_candidates&constituency_id=151
+HIMACHAL PRADESH,13,MANDI,index.php?action=show_candidates&constituency_id=152
+HIMACHAL PRADESH,13,SHIMLA (SC),index.php?action=show_candidates&constituency_id=154
+JAMMU AND KASHMIR,14,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=14
+JAMMU AND KASHMIR,14,ANANTNAG-RAJOURI,index.php?action=show_candidates&constituency_id=157
+JAMMU AND KASHMIR,14,BARAMULLA,index.php?action=show_candidates&constituency_id=159
+JAMMU AND KASHMIR,14,JAMMU,index.php?action=show_candidates&constituency_id=156
+JAMMU AND KASHMIR,14,SRINAGAR,index.php?action=show_candidates&constituency_id=158
+JAMMU AND KASHMIR,14,UDHAMPUR,index.php?action=show_candidates&constituency_id=155
+JHARKHAND,15,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=15
+JHARKHAND,15,CHATRA,index.php?action=show_candidates&constituency_id=164
+JHARKHAND,15,DHANBAD,index.php?action=show_candidates&constituency_id=168
+JHARKHAND,15,DUMKA (ST),index.php?action=show_candidates&constituency_id=172
+JHARKHAND,15,GIRIDIH,index.php?action=show_candidates&constituency_id=167
+JHARKHAND,15,GODDA,index.php?action=show_candidates&constituency_id=173
+JHARKHAND,15,HAZARIBAGH,index.php?action=show_candidates&constituency_id=166
+JHARKHAND,15,JAMSHEDPUR,index.php?action=show_candidates&constituency_id=170
+JHARKHAND,15,KHUNTI (ST),index.php?action=show_candidates&constituency_id=161
+JHARKHAND,15,KODARMA,index.php?action=show_candidates&constituency_id=165
+JHARKHAND,15,LOHARDAGA (ST),index.php?action=show_candidates&constituency_id=162
+JHARKHAND,15,PALAMU (SC),index.php?action=show_candidates&constituency_id=163
+JHARKHAND,15,RAJMAHAL (ST),index.php?action=show_candidates&constituency_id=171
+JHARKHAND,15,RANCHI,index.php?action=show_candidates&constituency_id=169
+JHARKHAND,15,SINGHBHUM (ST),index.php?action=show_candidates&constituency_id=160
+KARNATAKA,16,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=16
+KARNATAKA,16,BAGALKOT,index.php?action=show_candidates&constituency_id=192
+KARNATAKA,16,BANGALORE CENTRAL,index.php?action=show_candidates&constituency_id=185
+KARNATAKA,16,BANGALORE NORTH,index.php?action=show_candidates&constituency_id=184
+KARNATAKA,16,BANGALORE RURAL,index.php?action=show_candidates&constituency_id=183
+KARNATAKA,16,BANGALORE SOUTH,index.php?action=show_candidates&constituency_id=186
+KARNATAKA,16,BELGAUM,index.php?action=show_candidates&constituency_id=191
+KARNATAKA,16,BELLARY (ST),index.php?action=show_candidates&constituency_id=198
+KARNATAKA,16,BIDAR,index.php?action=show_candidates&constituency_id=196
+KARNATAKA,16,BIJAPUR (SC),index.php?action=show_candidates&constituency_id=193
+KARNATAKA,16,CHAMARAJANAGAR (SC),index.php?action=show_candidates&constituency_id=182
+KARNATAKA,16,CHIKKBALLAPUR,index.php?action=show_candidates&constituency_id=187
+KARNATAKA,16,CHIKKODI,index.php?action=show_candidates&constituency_id=190
+KARNATAKA,16,CHITRADURGA (SC),index.php?action=show_candidates&constituency_id=178
+KARNATAKA,16,DAKSHINA KANNADA,index.php?action=show_candidates&constituency_id=177
+KARNATAKA,16,DAVANAGERE,index.php?action=show_candidates&constituency_id=202
+KARNATAKA,16,DHARWAD,index.php?action=show_candidates&constituency_id=200
+KARNATAKA,16,GULBARGA (SC),index.php?action=show_candidates&constituency_id=194
+KARNATAKA,16,HASSAN,index.php?action=show_candidates&constituency_id=176
+KARNATAKA,16,HAVERI,index.php?action=show_candidates&constituency_id=199
+KARNATAKA,16,KOLAR (SC),index.php?action=show_candidates&constituency_id=188
+KARNATAKA,16,KOPPAL,index.php?action=show_candidates&constituency_id=197
+KARNATAKA,16,MANDYA,index.php?action=show_candidates&constituency_id=180
+KARNATAKA,16,MYSORE,index.php?action=show_candidates&constituency_id=181
+KARNATAKA,16,RAICHUR (ST),index.php?action=show_candidates&constituency_id=195
+KARNATAKA,16,SHIMOGA,index.php?action=show_candidates&constituency_id=203
+KARNATAKA,16,TUMKUR,index.php?action=show_candidates&constituency_id=179
+KARNATAKA,16,UDUPI CHIKMAGALUR,index.php?action=show_candidates&constituency_id=175
+KARNATAKA,16,UTTARA KANNADA,index.php?action=show_candidates&constituency_id=201
+KERALA,17,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=17
+KERALA,17,ALAPPUZHA,index.php?action=show_candidates&constituency_id=220
+KERALA,17,ALATHUR (SC),index.php?action=show_candidates&constituency_id=213
+KERALA,17,ATTINGAL,index.php?action=show_candidates&constituency_id=224
+KERALA,17,CHALAKUDY,index.php?action=show_candidates&constituency_id=215
+KERALA,17,ERNAKULAM,index.php?action=show_candidates&constituency_id=216
+KERALA,17,IDUKKI,index.php?action=show_candidates&constituency_id=217
+KERALA,17,KANNUR,index.php?action=show_candidates&constituency_id=206
+KERALA,17,KASARAGOD,index.php?action=show_candidates&constituency_id=205
+KERALA,17,KOLLAM,index.php?action=show_candidates&constituency_id=223
+KERALA,17,KOTTAYAM,index.php?action=show_candidates&constituency_id=218
+KERALA,17,KOZHIKODE,index.php?action=show_candidates&constituency_id=209
+KERALA,17,MALAPPURAM,index.php?action=show_candidates&constituency_id=210
+KERALA,17,MAVELIKKARA (SC),index.php?action=show_candidates&constituency_id=221
+KERALA,17,PALAKKAD,index.php?action=show_candidates&constituency_id=212
+KERALA,17,PATHANAMTHITTA,index.php?action=show_candidates&constituency_id=222
+KERALA,17,PONNANI,index.php?action=show_candidates&constituency_id=211
+KERALA,17,THIRUVANANTHAPURAM,index.php?action=show_candidates&constituency_id=225
+KERALA,17,THRISSUR,index.php?action=show_candidates&constituency_id=214
+KERALA,17,VADAKARA,index.php?action=show_candidates&constituency_id=207
+KERALA,17,WAYANAD,index.php?action=show_candidates&constituency_id=208
+LADAKH,18,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=18
+LADAKH,18,LADAKH,index.php?action=show_candidates&constituency_id=226
+LAKSHADWEEP,19,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=19
+LAKSHADWEEP,19,LAKSHADWEEP,index.php?action=show_candidates&constituency_id=227
+MADHYA PRADESH,20,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=20
+MADHYA PRADESH,20,BALAGHAT,index.php?action=show_candidates&constituency_id=232
+MADHYA PRADESH,20,BETUL (ST),index.php?action=show_candidates&constituency_id=240
+MADHYA PRADESH,20,BHIND (SC),index.php?action=show_candidates&constituency_id=243
+MADHYA PRADESH,20,BHOPAL,index.php?action=show_candidates&constituency_id=248
+MADHYA PRADESH,20,CHHINDWARA,index.php?action=show_candidates&constituency_id=233
+MADHYA PRADESH,20,DAMOH,index.php?action=show_candidates&constituency_id=235
+MADHYA PRADESH,20,DEWAS (SC),index.php?action=show_candidates&constituency_id=250
+MADHYA PRADESH,20,DHAR (ST),index.php?action=show_candidates&constituency_id=254
+MADHYA PRADESH,20,GUNA,index.php?action=show_candidates&constituency_id=245
+MADHYA PRADESH,20,GWALIOR,index.php?action=show_candidates&constituency_id=244
+MADHYA PRADESH,20,HOSHANGABAD,index.php?action=show_candidates&constituency_id=239
+MADHYA PRADESH,20,INDORE,index.php?action=show_candidates&constituency_id=255
+MADHYA PRADESH,20,JABALPUR,index.php?action=show_candidates&constituency_id=230
+MADHYA PRADESH,20,KHAJURAHO,index.php?action=show_candidates&constituency_id=236
+MADHYA PRADESH,20,KHANDWA,index.php?action=show_candidates&constituency_id=258
+MADHYA PRADESH,20,KHARGONE (ST),index.php?action=show_candidates&constituency_id=256
+MADHYA PRADESH,20,MANDLA (ST),index.php?action=show_candidates&constituency_id=231
+MADHYA PRADESH,20,MANDSOUR,index.php?action=show_candidates&constituency_id=252
+MADHYA PRADESH,20,MORENA,index.php?action=show_candidates&constituency_id=241
+MADHYA PRADESH,20,RAJGARH,index.php?action=show_candidates&constituency_id=249
+MADHYA PRADESH,20,RATLAM (ST),index.php?action=show_candidates&constituency_id=253
+MADHYA PRADESH,20,REWA,index.php?action=show_candidates&constituency_id=238
+MADHYA PRADESH,20,SAGAR,index.php?action=show_candidates&constituency_id=246
+MADHYA PRADESH,20,SATNA,index.php?action=show_candidates&constituency_id=237
+MADHYA PRADESH,20,SHAHDOL (ST),index.php?action=show_candidates&constituency_id=229
+MADHYA PRADESH,20,SIDHI,index.php?action=show_candidates&constituency_id=228
+MADHYA PRADESH,20,TIKAMGARH (SC),index.php?action=show_candidates&constituency_id=234
+MADHYA PRADESH,20,UJJAIN (SC),index.php?action=show_candidates&constituency_id=251
+MADHYA PRADESH,20,VIDISHA,index.php?action=show_candidates&constituency_id=247
+MAHARASHTRA,21,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=21
+MAHARASHTRA,21,AHMEDNAGAR,index.php?action=show_candidates&constituency_id=293
+MAHARASHTRA,21,AKOLA,index.php?action=show_candidates&constituency_id=265
+MAHARASHTRA,21,AMRAVATI (SC),index.php?action=show_candidates&constituency_id=266
+MAHARASHTRA,21,AURANGABAD,index.php?action=show_candidates&constituency_id=289
+MAHARASHTRA,21,BARAMATI,index.php?action=show_candidates&constituency_id=274
+MAHARASHTRA,21,BEED,index.php?action=show_candidates&constituency_id=295
+MAHARASHTRA,21,BHANDARA GONDIYA,index.php?action=show_candidates&constituency_id=261
+MAHARASHTRA,21,BHIWANDI,index.php?action=show_candidates&constituency_id=300
+MAHARASHTRA,21,BULDHANA,index.php?action=show_candidates&constituency_id=264
+MAHARASHTRA,21,CHANDRAPUR,index.php?action=show_candidates&constituency_id=263
+MAHARASHTRA,21,DHULE,index.php?action=show_candidates&constituency_id=296
+MAHARASHTRA,21,DINDORI (ST),index.php?action=show_candidates&constituency_id=297
+MAHARASHTRA,21,GADCHIROLI - CHIMUR (ST),index.php?action=show_candidates&constituency_id=262
+MAHARASHTRA,21,HATKANANGALE,index.php?action=show_candidates&constituency_id=283
+MAHARASHTRA,21,HINGOLI,index.php?action=show_candidates&constituency_id=269
+MAHARASHTRA,21,JALGAON,index.php?action=show_candidates&constituency_id=285
+MAHARASHTRA,21,JALNA,index.php?action=show_candidates&constituency_id=287
+MAHARASHTRA,21,KALYAN,index.php?action=show_candidates&constituency_id=301
+MAHARASHTRA,21,KOLHAPUR,index.php?action=show_candidates&constituency_id=282
+MAHARASHTRA,21,LATUR (SC),index.php?action=show_candidates&constituency_id=276
+MAHARASHTRA,21,MADHA,index.php?action=show_candidates&constituency_id=278
+MAHARASHTRA,21,MAVAL,index.php?action=show_candidates&constituency_id=290
+MAHARASHTRA,21,MUMBAI NORTH,index.php?action=show_candidates&constituency_id=304
+MAHARASHTRA,21,MUMBAI NORTH - CENTRAL,index.php?action=show_candidates&constituency_id=307
+MAHARASHTRA,21,MUMBAI NORTH - EAST,index.php?action=show_candidates&constituency_id=306
+MAHARASHTRA,21,MUMBAI NORTH - WEST,index.php?action=show_candidates&constituency_id=305
+MAHARASHTRA,21,MUMBAI SOUTH,index.php?action=show_candidates&constituency_id=309
+MAHARASHTRA,21,MUMBAI SOUTH - CENTRAL,index.php?action=show_candidates&constituency_id=308
+MAHARASHTRA,21,NAGPUR,index.php?action=show_candidates&constituency_id=260
+MAHARASHTRA,21,NANDED,index.php?action=show_candidates&constituency_id=270
+MAHARASHTRA,21,NANDURBAR (ST),index.php?action=show_candidates&constituency_id=284
+MAHARASHTRA,21,NASHIK,index.php?action=show_candidates&constituency_id=298
+MAHARASHTRA,21,OSMANABAD,index.php?action=show_candidates&constituency_id=275
+MAHARASHTRA,21,PALGHAR (ST),index.php?action=show_candidates&constituency_id=299
+MAHARASHTRA,21,PARBHANI,index.php?action=show_candidates&constituency_id=271
+MAHARASHTRA,21,PUNE,index.php?action=show_candidates&constituency_id=291
+MAHARASHTRA,21,RAIGAD,index.php?action=show_candidates&constituency_id=272
+MAHARASHTRA,21,RAMTEK (SC),index.php?action=show_candidates&constituency_id=259
+MAHARASHTRA,21,RATNAGIRI - SINDHUDURG,index.php?action=show_candidates&constituency_id=281
+MAHARASHTRA,21,RAVER,index.php?action=show_candidates&constituency_id=286
+MAHARASHTRA,21,SANGLI,index.php?action=show_candidates&constituency_id=279
+MAHARASHTRA,21,SATARA,index.php?action=show_candidates&constituency_id=280
+MAHARASHTRA,21,SHIRDI (SC),index.php?action=show_candidates&constituency_id=294
+MAHARASHTRA,21,SHIRUR,index.php?action=show_candidates&constituency_id=292
+MAHARASHTRA,21,SOLAPUR (SC),index.php?action=show_candidates&constituency_id=277
+MAHARASHTRA,21,THANE,index.php?action=show_candidates&constituency_id=302
+MAHARASHTRA,21,WARDHA,index.php?action=show_candidates&constituency_id=267
+MAHARASHTRA,21,YAVATMAL - WASHIM,index.php?action=show_candidates&constituency_id=268
+MANIPUR,22,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=22
+MANIPUR,22,INNER MANIPUR,index.php?action=show_candidates&constituency_id=310
+MANIPUR,22,OUTER MANIPUR (ST),index.php?action=show_candidates&constituency_id=311
+MEGHALAYA,23,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=23
+MEGHALAYA,23,SHILLONG (ST),index.php?action=show_candidates&constituency_id=312
+MEGHALAYA,23,TURA (ST),index.php?action=show_candidates&constituency_id=313
+MIZORAM,24,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=24
+MIZORAM,24,MIZORAM (ST),index.php?action=show_candidates&constituency_id=314
+NAGALAND,25,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=25
+NAGALAND,25,NAGALAND,index.php?action=show_candidates&constituency_id=315
+ODISHA,26,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=26
+ODISHA,26,ASKA,index.php?action=show_candidates&constituency_id=324
+ODISHA,26,BALASORE,index.php?action=show_candidates&constituency_id=333
+ODISHA,26,BARGARH,index.php?action=show_candidates&constituency_id=320
+ODISHA,26,BERHAMPUR,index.php?action=show_candidates&constituency_id=318
+ODISHA,26,BHADRAK (SC),index.php?action=show_candidates&constituency_id=334
+ODISHA,26,BHUBANESWAR,index.php?action=show_candidates&constituency_id=331
+ODISHA,26,BOLANGIR,index.php?action=show_candidates&constituency_id=322
+ODISHA,26,CUTTACK,index.php?action=show_candidates&constituency_id=328
+ODISHA,26,DHENKANAL,index.php?action=show_candidates&constituency_id=327
+ODISHA,26,JAGATSINGHPUR (SC),index.php?action=show_candidates&constituency_id=337
+ODISHA,26,JAJPUR (SC),index.php?action=show_candidates&constituency_id=335
+ODISHA,26,KALAHANDI,index.php?action=show_candidates&constituency_id=316
+ODISHA,26,KANDHAMAL,index.php?action=show_candidates&constituency_id=323
+ODISHA,26,KENDRAPARA,index.php?action=show_candidates&constituency_id=336
+ODISHA,26,KEONJHAR (ST),index.php?action=show_candidates&constituency_id=326
+ODISHA,26,KORAPUT (ST),index.php?action=show_candidates&constituency_id=319
+ODISHA,26,MAYURBHANJ (ST),index.php?action=show_candidates&constituency_id=332
+ODISHA,26,NABARANGPUR (ST),index.php?action=show_candidates&constituency_id=317
+ODISHA,26,PURI,index.php?action=show_candidates&constituency_id=329
+ODISHA,26,SAMBALPUR,index.php?action=show_candidates&constituency_id=325
+ODISHA,26,SUNDARGARH (ST),index.php?action=show_candidates&constituency_id=321
+PUDUCHERRY,27,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=27
+PUDUCHERRY,27,PUDUCHERRY,index.php?action=show_candidates&constituency_id=338
+PUNJAB,28,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=28
+PUNJAB,28,AMRITSAR,index.php?action=show_candidates&constituency_id=340
+PUNJAB,28,ANANDPUR SAHIB,index.php?action=show_candidates&constituency_id=344
+PUNJAB,28,BATHINDA,index.php?action=show_candidates&constituency_id=349
+PUNJAB,28,FARIDKOT (SC),index.php?action=show_candidates&constituency_id=347
+PUNJAB,28,FATEHGARH SAHIB (SC),index.php?action=show_candidates&constituency_id=346
+PUNJAB,28,FIROZPUR,index.php?action=show_candidates&constituency_id=348
+PUNJAB,28,GURDASPUR,index.php?action=show_candidates&constituency_id=339
+PUNJAB,28,HOSHIARPUR (SC),index.php?action=show_candidates&constituency_id=343
+PUNJAB,28,JALANDHAR (SC),index.php?action=show_candidates&constituency_id=342
+PUNJAB,28,KHADOOR SAHIB,index.php?action=show_candidates&constituency_id=341
+PUNJAB,28,LUDHIANA,index.php?action=show_candidates&constituency_id=345
+PUNJAB,28,PATIALA,index.php?action=show_candidates&constituency_id=351
+PUNJAB,28,SANGRUR,index.php?action=show_candidates&constituency_id=350
+RAJASTHAN,29,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=29
+RAJASTHAN,29,AJMER,index.php?action=show_candidates&constituency_id=366
+RAJASTHAN,29,ALWAR,index.php?action=show_candidates&constituency_id=360
+RAJASTHAN,29,BANSWARA (ST),index.php?action=show_candidates&constituency_id=373
+RAJASTHAN,29,BARMER,index.php?action=show_candidates&constituency_id=370
+RAJASTHAN,29,BHARATPUR (SC),index.php?action=show_candidates&constituency_id=361
+RAJASTHAN,29,BHILWARA,index.php?action=show_candidates&constituency_id=376
+RAJASTHAN,29,BIKANER (SC),index.php?action=show_candidates&constituency_id=354
+RAJASTHAN,29,CHITTORGARH,index.php?action=show_candidates&constituency_id=374
+RAJASTHAN,29,CHURU,index.php?action=show_candidates&constituency_id=355
+RAJASTHAN,29,DAUSA (ST),index.php?action=show_candidates&constituency_id=363
+RAJASTHAN,29,GANGANAGAR (SC),index.php?action=show_candidates&constituency_id=353
+RAJASTHAN,29,JAIPUR,index.php?action=show_candidates&constituency_id=359
+RAJASTHAN,29,JAIPUR RURAL,index.php?action=show_candidates&constituency_id=358
+RAJASTHAN,29,JALORE,index.php?action=show_candidates&constituency_id=371
+RAJASTHAN,29,JHALAWAR-BARAN,index.php?action=show_candidates&constituency_id=378
+RAJASTHAN,29,JHUNJHUNU,index.php?action=show_candidates&constituency_id=356
+RAJASTHAN,29,JODHPUR,index.php?action=show_candidates&constituency_id=369
+RAJASTHAN,29,KARAULI-DHOLPUR (SC),index.php?action=show_candidates&constituency_id=362
+RAJASTHAN,29,KOTA,index.php?action=show_candidates&constituency_id=377
+RAJASTHAN,29,NAGAUR,index.php?action=show_candidates&constituency_id=364
+RAJASTHAN,29,PALI,index.php?action=show_candidates&constituency_id=368
+RAJASTHAN,29,RAJSAMAND,index.php?action=show_candidates&constituency_id=375
+RAJASTHAN,29,SIKAR,index.php?action=show_candidates&constituency_id=357
+RAJASTHAN,29,TONK-SAWAI MADHOPUR,index.php?action=show_candidates&constituency_id=365
+RAJASTHAN,29,UDAIPUR (ST),index.php?action=show_candidates&constituency_id=372
+SIKKIM,30,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=30
+SIKKIM,30,SIKKIM,index.php?action=show_candidates&constituency_id=380
+TAMIL NADU,31,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=31
+TAMIL NADU,31,ARAKKONAM,index.php?action=show_candidates&constituency_id=387
+TAMIL NADU,31,ARANI,index.php?action=show_candidates&constituency_id=392
+TAMIL NADU,31,CHENNAI CENTRAL,index.php?action=show_candidates&constituency_id=384
+TAMIL NADU,31,CHENNAI NORTH,index.php?action=show_candidates&constituency_id=382
+TAMIL NADU,31,CHENNAI SOUTH,index.php?action=show_candidates&constituency_id=383
+TAMIL NADU,31,CHIDAMBARAM (SC),index.php?action=show_candidates&constituency_id=408
+TAMIL NADU,31,COIMBATORE,index.php?action=show_candidates&constituency_id=401
+TAMIL NADU,31,CUDDALORE,index.php?action=show_candidates&constituency_id=407
+TAMIL NADU,31,DHARMAPURI,index.php?action=show_candidates&constituency_id=390
+TAMIL NADU,31,DINDIGUL,index.php?action=show_candidates&constituency_id=403
+TAMIL NADU,31,ERODE,index.php?action=show_candidates&constituency_id=398
+TAMIL NADU,31,KALLAKURICHI,index.php?action=show_candidates&constituency_id=394
+TAMIL NADU,31,KANCHEEPURAM (SC),index.php?action=show_candidates&constituency_id=386
+TAMIL NADU,31,KANNIYAKUMARI,index.php?action=show_candidates&constituency_id=421
+TAMIL NADU,31,KARUR,index.php?action=show_candidates&constituency_id=404
+TAMIL NADU,31,KRISHNAGIRI,index.php?action=show_candidates&constituency_id=389
+TAMIL NADU,31,MADURAI,index.php?action=show_candidates&constituency_id=414
+TAMIL NADU,31,MAYILADUTHURAI,index.php?action=show_candidates&constituency_id=409
+TAMIL NADU,31,NAGAPATTINAM (SC),index.php?action=show_candidates&constituency_id=411
+TAMIL NADU,31,NAMAKKAL,index.php?action=show_candidates&constituency_id=397
+TAMIL NADU,31,NILGIRIS (SC),index.php?action=show_candidates&constituency_id=400
+TAMIL NADU,31,PERAMBALUR,index.php?action=show_candidates&constituency_id=406
+TAMIL NADU,31,POLLACHI,index.php?action=show_candidates&constituency_id=402
+TAMIL NADU,31,RAMANATHAPURAM,index.php?action=show_candidates&constituency_id=417
+TAMIL NADU,31,SALEM,index.php?action=show_candidates&constituency_id=396
+TAMIL NADU,31,SIVAGANGA,index.php?action=show_candidates&constituency_id=413
+TAMIL NADU,31,SRIPERUMBUDUR,index.php?action=show_candidates&constituency_id=385
+TAMIL NADU,31,TENKASI (SC),index.php?action=show_candidates&constituency_id=419
+TAMIL NADU,31,THANJAVUR,index.php?action=show_candidates&constituency_id=412
+TAMIL NADU,31,THENI,index.php?action=show_candidates&constituency_id=415
+TAMIL NADU,31,THOOTHUKKUDI,index.php?action=show_candidates&constituency_id=418
+TAMIL NADU,31,TIRUCHIRAPPALLI,index.php?action=show_candidates&constituency_id=405
+TAMIL NADU,31,TIRUNELVELI,index.php?action=show_candidates&constituency_id=420
+TAMIL NADU,31,TIRUPPUR,index.php?action=show_candidates&constituency_id=399
+TAMIL NADU,31,TIRUVALLUR (SC),index.php?action=show_candidates&constituency_id=381
+TAMIL NADU,31,TIRUVANNAMALAI,index.php?action=show_candidates&constituency_id=391
+TAMIL NADU,31,VELLORE,index.php?action=show_candidates&constituency_id=388
+TAMIL NADU,31,VILUPPURAM (SC),index.php?action=show_candidates&constituency_id=393
+TAMIL NADU,31,VIRUDHUNAGAR,index.php?action=show_candidates&constituency_id=416
+TELANGANA,32,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=32
+TELANGANA,32,ADILABAD (ST),index.php?action=show_candidates&constituency_id=423
+TELANGANA,32,BHONGIR,index.php?action=show_candidates&constituency_id=436
+TELANGANA,32,CHEVELLA,index.php?action=show_candidates&constituency_id=432
+TELANGANA,32,HYDERABAD,index.php?action=show_candidates&constituency_id=431
+TELANGANA,32,KARIMNAGAR,index.php?action=show_candidates&constituency_id=425
+TELANGANA,32,KHAMMAM,index.php?action=show_candidates&constituency_id=440
+TELANGANA,32,MAHABUBABAD (ST),index.php?action=show_candidates&constituency_id=439
+TELANGANA,32,MAHBUBNAGAR,index.php?action=show_candidates&constituency_id=433
+TELANGANA,32,MALKAJGIRI,index.php?action=show_candidates&constituency_id=429
+TELANGANA,32,MEDAK,index.php?action=show_candidates&constituency_id=428
+TELANGANA,32,NAGARKURNOOL (SC),index.php?action=show_candidates&constituency_id=434
+TELANGANA,32,NALGONDA,index.php?action=show_candidates&constituency_id=435
+TELANGANA,32,NIZAMABAD,index.php?action=show_candidates&constituency_id=426
+TELANGANA,32,PEDDAPALLE (SC),index.php?action=show_candidates&constituency_id=424
+TELANGANA,32,SECUNDERABAD,index.php?action=show_candidates&constituency_id=430
+TELANGANA,32,WARANGAL (SC),index.php?action=show_candidates&constituency_id=438
+TELANGANA,32,ZAHIRABAD,index.php?action=show_candidates&constituency_id=427
+TRIPURA,33,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=33
+TRIPURA,33,TRIPURA EAST (ST),index.php?action=show_candidates&constituency_id=442
+TRIPURA,33,TRIPURA WEST,index.php?action=show_candidates&constituency_id=441
+UTTAR PRADESH,35,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=35
+UTTAR PRADESH,35,AGRA (SC),index.php?action=show_candidates&constituency_id=467
+UTTAR PRADESH,35,AKBARPUR,index.php?action=show_candidates&constituency_id=487
+UTTAR PRADESH,35,ALIGARH,index.php?action=show_candidates&constituency_id=463
+UTTAR PRADESH,35,ALLAHABAD,index.php?action=show_candidates&constituency_id=508
+UTTAR PRADESH,35,AMBEDKAR NAGAR,index.php?action=show_candidates&constituency_id=509
+UTTAR PRADESH,35,AMETHI,index.php?action=show_candidates&constituency_id=493
+UTTAR PRADESH,35,AMROHA,index.php?action=show_candidates&constituency_id=456
+UTTAR PRADESH,35,AONLA,index.php?action=show_candidates&constituency_id=473
+UTTAR PRADESH,35,AZAMGARH,index.php?action=show_candidates&constituency_id=515
+UTTAR PRADESH,35,BADAUN,index.php?action=show_candidates&constituency_id=472
+UTTAR PRADESH,35,BAGHPAT,index.php?action=show_candidates&constituency_id=458
+UTTAR PRADESH,35,BAHRAICH (SC),index.php?action=show_candidates&constituency_id=488
+UTTAR PRADESH,35,BALLIA,index.php?action=show_candidates&constituency_id=527
+UTTAR PRADESH,35,BANDA,index.php?action=show_candidates&constituency_id=497
+UTTAR PRADESH,35,BANSGAON (SC),index.php?action=show_candidates&constituency_id=524
+UTTAR PRADESH,35,BARABANKI (SC),index.php?action=show_candidates&constituency_id=500
+UTTAR PRADESH,35,BAREILLY,index.php?action=show_candidates&constituency_id=474
+UTTAR PRADESH,35,BASTI,index.php?action=show_candidates&constituency_id=512
+UTTAR PRADESH,35,BHADOHI,index.php?action=show_candidates&constituency_id=518
+UTTAR PRADESH,35,BIJNOR,index.php?action=show_candidates&constituency_id=451
+UTTAR PRADESH,35,BULANDSHAHR (SC),index.php?action=show_candidates&constituency_id=461
+UTTAR PRADESH,35,CHANDAULI,index.php?action=show_candidates&constituency_id=529
+UTTAR PRADESH,35,DEORIA,index.php?action=show_candidates&constituency_id=523
+UTTAR PRADESH,35,DHAURAHRA,index.php?action=show_candidates&constituency_id=478
+UTTAR PRADESH,35,DOMARIYAGANJ,index.php?action=show_candidates&constituency_id=511
+UTTAR PRADESH,35,ETAH,index.php?action=show_candidates&constituency_id=471
+UTTAR PRADESH,35,ETAWAH (SC),index.php?action=show_candidates&constituency_id=484
+UTTAR PRADESH,35,FAIZABAD,index.php?action=show_candidates&constituency_id=501
+UTTAR PRADESH,35,FARRUKHABAD,index.php?action=show_candidates&constituency_id=483
+UTTAR PRADESH,35,FATEHPUR,index.php?action=show_candidates&constituency_id=498
+UTTAR PRADESH,35,FATEHPUR SIKRI,index.php?action=show_candidates&constituency_id=468
+UTTAR PRADESH,35,FIROZABAD,index.php?action=show_candidates&constituency_id=469
+UTTAR PRADESH,35,GAUTAM BUDDHA NAGAR,index.php?action=show_candidates&constituency_id=460
+UTTAR PRADESH,35,GHAZIABAD,index.php?action=show_candidates&constituency_id=459
+UTTAR PRADESH,35,GHAZIPUR,index.php?action=show_candidates&constituency_id=528
+UTTAR PRADESH,35,GHOSI,index.php?action=show_candidates&constituency_id=525
+UTTAR PRADESH,35,GONDA,index.php?action=show_candidates&constituency_id=503
+UTTAR PRADESH,35,GORAKHPUR,index.php?action=show_candidates&constituency_id=520
+UTTAR PRADESH,35,HAMIRPUR,index.php?action=show_candidates&constituency_id=496
+UTTAR PRADESH,35,HARDOI (SC),index.php?action=show_candidates&constituency_id=480
+UTTAR PRADESH,35,HATHRAS (SC),index.php?action=show_candidates&constituency_id=466
+UTTAR PRADESH,35,JALAUN (SC),index.php?action=show_candidates&constituency_id=494
+UTTAR PRADESH,35,JAUNPUR,index.php?action=show_candidates&constituency_id=516
+UTTAR PRADESH,35,JHANSI,index.php?action=show_candidates&constituency_id=495
+UTTAR PRADESH,35,KAIRANA,index.php?action=show_candidates&constituency_id=449
+UTTAR PRADESH,35,KAISERGANJ,index.php?action=show_candidates&constituency_id=502
+UTTAR PRADESH,35,KANNAUJ,index.php?action=show_candidates&constituency_id=485
+UTTAR PRADESH,35,KANPUR,index.php?action=show_candidates&constituency_id=486
+UTTAR PRADESH,35,KAUSHAMBI (SC),index.php?action=show_candidates&constituency_id=499
+UTTAR PRADESH,35,KHERI,index.php?action=show_candidates&constituency_id=476
+UTTAR PRADESH,35,KUSHI NAGAR,index.php?action=show_candidates&constituency_id=521
+UTTAR PRADESH,35,LALGANJ (SC),index.php?action=show_candidates&constituency_id=514
+UTTAR PRADESH,35,LUCKNOW,index.php?action=show_candidates&constituency_id=490
+UTTAR PRADESH,35,MACHHLISHAHR (SC),index.php?action=show_candidates&constituency_id=517
+UTTAR PRADESH,35,MAHARAJGANJ,index.php?action=show_candidates&constituency_id=519
+UTTAR PRADESH,35,MAINPURI,index.php?action=show_candidates&constituency_id=470
+UTTAR PRADESH,35,MATHURA,index.php?action=show_candidates&constituency_id=464
+UTTAR PRADESH,35,MEERUT,index.php?action=show_candidates&constituency_id=457
+UTTAR PRADESH,35,MIRZAPUR,index.php?action=show_candidates&constituency_id=531
+UTTAR PRADESH,35,MISRIKH (SC),index.php?action=show_candidates&constituency_id=481
+UTTAR PRADESH,35,MOHANLALGANJ (SC),index.php?action=show_candidates&constituency_id=489
+UTTAR PRADESH,35,MORADABAD,index.php?action=show_candidates&constituency_id=453
+UTTAR PRADESH,35,MUZAFFARNAGAR,index.php?action=show_candidates&constituency_id=450
+UTTAR PRADESH,35,NAGINA (SC),index.php?action=show_candidates&constituency_id=452
+UTTAR PRADESH,35,PHULPUR,index.php?action=show_candidates&constituency_id=506
+UTTAR PRADESH,35,PILIBHIT,index.php?action=show_candidates&constituency_id=455
+UTTAR PRADESH,35,PRATAPGARH,index.php?action=show_candidates&constituency_id=505
+UTTAR PRADESH,35,RAE BARELI,index.php?action=show_candidates&constituency_id=491
+UTTAR PRADESH,35,RAMPUR,index.php?action=show_candidates&constituency_id=454
+UTTAR PRADESH,35,ROBERTSGANJ (SC),index.php?action=show_candidates&constituency_id=532
+UTTAR PRADESH,35,SAHARANPUR,index.php?action=show_candidates&constituency_id=448
+UTTAR PRADESH,35,SALEMPUR,index.php?action=show_candidates&constituency_id=526
+UTTAR PRADESH,35,SAMBHAL,index.php?action=show_candidates&constituency_id=465
+UTTAR PRADESH,35,SANT KABIR NAGAR,index.php?action=show_candidates&constituency_id=513
+UTTAR PRADESH,35,SHAHJAHANPUR (SC),index.php?action=show_candidates&constituency_id=475
+UTTAR PRADESH,35,SHRAWASTI,index.php?action=show_candidates&constituency_id=510
+UTTAR PRADESH,35,SITAPUR,index.php?action=show_candidates&constituency_id=479
+UTTAR PRADESH,35,SULTANPUR,index.php?action=show_candidates&constituency_id=504
+UTTAR PRADESH,35,UNNAO,index.php?action=show_candidates&constituency_id=482
+UTTAR PRADESH,35,VARANASI,index.php?action=show_candidates&constituency_id=530
+UTTARAKHAND,34,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=34
+UTTARAKHAND,34,ALMORA (SC),index.php?action=show_candidates&constituency_id=445
+UTTARAKHAND,34,GARHWAL,index.php?action=show_candidates&constituency_id=444
+UTTARAKHAND,34,HARIDWAR,index.php?action=show_candidates&constituency_id=447
+UTTARAKHAND,34,NAINITAL-UDHAM SINGH NAGAR,index.php?action=show_candidates&constituency_id=446
+UTTARAKHAND,34,TEHRI GARHWAL,index.php?action=show_candidates&constituency_id=443
+WEST BENGAL,36,ALL CONSTITUENCIES,index.php?action=show_constituencies&state_id=36
+WEST BENGAL,36,ALIPURDUARS (ST),index.php?action=show_candidates&constituency_id=535
+WEST BENGAL,36,ARAMBAG (SC),index.php?action=show_candidates&constituency_id=559
+WEST BENGAL,36,ASANSOL,index.php?action=show_candidates&constituency_id=550
+WEST BENGAL,36,BAHARAMPUR,index.php?action=show_candidates&constituency_id=544
+WEST BENGAL,36,BALURGHAT,index.php?action=show_candidates&constituency_id=539
+WEST BENGAL,36,BANGAON (SC),index.php?action=show_candidates&constituency_id=553
+WEST BENGAL,36,BANKURA,index.php?action=show_candidates&constituency_id=567
+WEST BENGAL,36,BARASAT,index.php?action=show_candidates&constituency_id=570
+WEST BENGAL,36,BARDHAMAN PURBA (SC),index.php?action=show_candidates&constituency_id=547
+WEST BENGAL,36,BARRACKPUR,index.php?action=show_candidates&constituency_id=554
+WEST BENGAL,36,BASIRHAT,index.php?action=show_candidates&constituency_id=571
+WEST BENGAL,36,BIRBHUM,index.php?action=show_candidates&constituency_id=552
+WEST BENGAL,36,BISHNUPUR (SC),index.php?action=show_candidates&constituency_id=568
+WEST BENGAL,36,BOLPUR,index.php?action=show_candidates&constituency_id=551
+WEST BENGAL,36,BURDWAN - DURGAPUR,index.php?action=show_candidates&constituency_id=549
+WEST BENGAL,36,COOCH BEHAR (SC),index.php?action=show_candidates&constituency_id=534
+WEST BENGAL,36,DARJEELING,index.php?action=show_candidates&constituency_id=537
+WEST BENGAL,36,DIAMOND HARBOUR,index.php?action=show_candidates&constituency_id=574
+WEST BENGAL,36,DUM DUM,index.php?action=show_candidates&constituency_id=569
+WEST BENGAL,36,GHATAL,index.php?action=show_candidates&constituency_id=562
+WEST BENGAL,36,HOOGHLY,index.php?action=show_candidates&constituency_id=558
+WEST BENGAL,36,HOWRAH,index.php?action=show_candidates&constituency_id=555
+WEST BENGAL,36,JADAVPUR,index.php?action=show_candidates&constituency_id=575
+WEST BENGAL,36,JALPAIGURI (SC),index.php?action=show_candidates&constituency_id=536
+WEST BENGAL,36,JANGIPUR,index.php?action=show_candidates&constituency_id=542
+WEST BENGAL,36,JAYNAGAR (SC),index.php?action=show_candidates&constituency_id=572
+WEST BENGAL,36,JHARGRAM (ST),index.php?action=show_candidates&constituency_id=564
+WEST BENGAL,36,KANTHI,index.php?action=show_candidates&constituency_id=561
+WEST BENGAL,36,KOLKATA DAKSHIN,index.php?action=show_candidates&constituency_id=576
+WEST BENGAL,36,KOLKATA UTTAR,index.php?action=show_candidates&constituency_id=577
+WEST BENGAL,36,KRISHNANAGAR,index.php?action=show_candidates&constituency_id=545
+WEST BENGAL,36,MALDAHA DAKSHIN,index.php?action=show_candidates&constituency_id=541
+WEST BENGAL,36,MALDAHA UTTAR,index.php?action=show_candidates&constituency_id=540
+WEST BENGAL,36,MATHURAPUR (SC),index.php?action=show_candidates&constituency_id=573
+WEST BENGAL,36,MEDINIPUR,index.php?action=show_candidates&constituency_id=565
+WEST BENGAL,36,MURSHIDABAD,index.php?action=show_candidates&constituency_id=543
+WEST BENGAL,36,PURULIA,index.php?action=show_candidates&constituency_id=566
+WEST BENGAL,36,RAIGANJ,index.php?action=show_candidates&constituency_id=538
+WEST BENGAL,36,RANAGHAT (SC),index.php?action=show_candidates&constituency_id=546
+WEST BENGAL,36,SREERAMPUR,index.php?action=show_candidates&constituency_id=557
+WEST BENGAL,36,TAMLUK,index.php?action=show_candidates&constituency_id=560
+WEST BENGAL,36,ULUBERIA,index.php?action=show_candidates&constituency_id=556
