@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ```
 Files description:
 
--`new_scrape.py`: main file for scraping data of all constituencies of states.
--`const.py`: to create `constituencies.csv` of all states with their State_ID and respective links
+- `new_scrape.py`: main file for scraping data of all constituencies of states.
+- `const.py`: to create `constituencies.csv` of all states with their State_ID and respective links
