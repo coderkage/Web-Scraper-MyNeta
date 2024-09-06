@@ -18,7 +18,11 @@ You can install these dependencies by running:
 ```sh
 pip install -r requirements.txt
 ```
-Files description:
+## Files description:
 
-- `new_scrape.py`: main file for scraping data of all constituencies of states.
+- `scrape.py`: main file for scraping data state wise.
+- `new_scrape.py`: file for scraping data of all constituencies of states in a single .csv file.
 - `const.py`: to create `constituencies.csv` of all states with their State_ID and respective links
+
+## Detailed dataset link (Kaggle): 
+[https://www.kaggle.com/datasets/deeppatel03/indian-constituencies/data](https://www.kaggle.com/datasets/deeppatel03/indian-constituencies/data)
